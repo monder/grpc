@@ -854,7 +854,6 @@
         '-Wall',
         '-pthread',
         '-g',
-        '-zdefs',
         '-Werror',
         '-Wno-error=deprecated-declarations'
       ],
